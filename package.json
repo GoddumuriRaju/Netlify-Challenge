@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@netlify/functions": "^2.6.3",
+    "busboy": "^1.6.0"
+  }
+}
